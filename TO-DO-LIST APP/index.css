@@ -72,28 +72,8 @@ h4{
 .btnn{
     height:27.9px; 
     margin-bottom: 2px;
-
-    
 }
 .button{
     height:3px;
-    float: right;
-    
+    float: right;    
 }
-/* @media screen and (max-width:700px) {
-    .header .userInput{
-        display: block;
-        float: none;
-        text-align: center;
-        margin-left: 25%;
-    }
-    .btnn{
-        display: none;
-    }
-    .header .logo{
-        width: 40%;
-    }
-    .userInput input{
-        width: 50px;
-    }
-} */
